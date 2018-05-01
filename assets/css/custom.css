@@ -1,0 +1,33 @@
+.class-black {
+    background-color: black !important;
+    color: white !important;
+}
+
+.class-black h1, .class-black h2, .class-black h3, .class-black h4,
+.class-black h5, .class-black h6, .class-black p, .class-black article,
+.class-black ul, .class-black ul li, .class-black ol li {
+    color: white !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+
+.class-black p, .class-black article,
+.class-black ul, .class-black ul li, .class-black ol li {
+    font-size: 32px !important;
+}
+
+.class-black h1 {
+    font-size: 48px !important;
+}
+
+.class-black h2 {
+    font-size: 44px !important;
+}
+
+.class-black h3 {
+    font-size: 40px !important;
+}
+code {
+    font-size: 12px !important;
+    font-family: "Source Code Pro", monospace !important;
+    text-align: left !important;
+}
